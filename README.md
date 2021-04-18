@@ -8,7 +8,7 @@
   </a>
     <br />
     <br />
-    ⭐️<a href="https://omarjabri7.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>  
+    ⭐️<a href="https://Yifan-Xie.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>  
   <p align="center">
     To keep people can ride bike more safely on the road.
     <br />
